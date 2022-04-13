@@ -14,5 +14,5 @@
 **Sources:**  
 
 
-https://www.sketchappsources.com/free-source/4762-design-courses-app-sketch-freebie-resource.html
-https://www.figma.com/
+- https://www.sketchappsources.com/free-source/4762-design-courses-app-sketch-freebie-resource.html
+- https://www.figma.com/
