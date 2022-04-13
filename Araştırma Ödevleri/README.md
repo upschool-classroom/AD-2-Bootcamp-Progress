@@ -22,7 +22,7 @@
 - Bir adet Tools (tools namespace) attribute kullanımını gösterir misiniz ? 
 
 
-# <a name="x"></a> Öğrenci Cevapları
+# <a name="x"></a> Öğrenci Cevapları:
 
 - Aleyna Işıkdağlılar:
 - Aybüke Fırat:
