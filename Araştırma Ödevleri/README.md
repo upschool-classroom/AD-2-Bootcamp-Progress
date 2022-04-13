@@ -40,7 +40,7 @@
 - Ceren Yıldırım:
 - Didem Karaca:
 - Dilan Özer:
-- Dilay Erem Karabağ: [Araştırma Ödevi](https://github.com/dilayerem/Upschool-Progress/tree/main/Projects/Layout-exercise-project)
+- Dilay Erem Karabağ: [Araştırma Ödevi](https://github.com/dilayerem/Upschool-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Elif Esra Eker:
 - Esra Öz:
 - Feyza Demirhan:
