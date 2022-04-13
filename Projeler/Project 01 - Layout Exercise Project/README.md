@@ -11,6 +11,8 @@
 
 3- Style kullanımı ve çalışmaya uygun font seçiminizi yapmanız gerekmektedir. 
 
+4- Çalışmanızı kendi github hesabınızda public repo link olarak iletmeniz talep ediliyor. Repo readme boş olmamalı projenizi anlatan ingilizce kısa açıklama ve ss'leriniz ekli olmalıdır. Readme alanı boş olması halinde projeniz değerlendirmeye alınmayacaktır.
+
 **Sources:**  
 
 
