@@ -29,7 +29,7 @@
 - Ayşin Şahin:
 - Berna Yaşar:
 - Beste Saraç:
-- Betül Akan:
+- Betül Akan:  [Araştırma Ödevi:](https://github.com/betulakan/UpSchool-Projects/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Beyza Nur Aydemir:
 - Beyzanur Taş:
 - Burçak Şahin:
