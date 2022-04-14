@@ -54,4 +54,4 @@
 - Sümeyra Özuğur:
 - Sümeyye Emre:
 - Sümeyye Özkan:
-- Suüveybe Sena Küçük:
+- Suüveybe Sena Küçük:[Araştırma Ödevi](https://github.com/suveybesena/UpschoolProjects/tree/research_assignments)
