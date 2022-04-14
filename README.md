@@ -3,7 +3,8 @@
 ![WhatsApp Image 2022-04-13 at 17 02 13](https://user-images.githubusercontent.com/70329389/163203494-cbd255c6-1834-4595-b31d-ece22a9ee6f5.jpeg)
 
 
-<!-- 
+
+<!--
 
 ## Our Students
 
@@ -24,7 +25,7 @@
     <td align="center"><a href="https://github.com/busranur-erpay"><img src="https://avatars.githubusercontent.com/u/77737341?v=4" width="150px;" alt=""/><br /><sub><b>Büşranur Erpay</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Cansu-Kose"><img src="https://avatars.githubusercontent.com/u/93200871?v=4" width="150px;" alt=""/><br /><sub><b>Cansu Köse</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/CansuSengul"><img src="https://avatars.githubusercontent.com/u/24211091?v=4" width="150px;" alt=""/><br /><sub><b>Cansu Şengül</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Ebazhanov"><img src="https://avatars2.githubusercontent.com/u/13170022?v=4?s=100" width="150px;" alt=""/><br /><sub><b>Ceren Yıldırım</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/NCerenyildirim"><img src="https://avatars.githubusercontent.com/u/103643989?v=4" width="150px;" alt=""/><br /><sub><b>Ceren Yıldırım</b></sub></a><br /></td>
   </tr>
    <tr>
     <td align="center"><a href="https://github.com/didemkaracaa"><img src="https://avatars.githubusercontent.com/u/44816070?v=4" width="150px;" alt=""/><br /><sub><b>Didem Karaca</b></sub></a><br /></td>
@@ -40,14 +41,14 @@
     <td align="center"><a href="https://github.com/melissacorali"><img src="https://avatars.githubusercontent.com/u/55882459?v=4" width="150px;" alt=""/><br /><sub><b>Melissa Çoralı</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ozlembasabakar"><img src="https://avatars.githubusercontent.com/u/53402156?v=4" width="150px;" alt=""/><br /><sub><b>Özlem Başabakar</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/pelsinkaplan"><img src="https://avatars.githubusercontent.com/u/48292974?v=4" width="150px;" alt=""/><br /><sub><b>Pelşin Kaplan</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Cansu-Kose"><img src="https://avatars.githubusercontent.com/u/93200871?v=4" width="150px;" alt=""/><br /><sub><b>Seda Nur Önder</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/SedaNur35"><img src="https://avatars.githubusercontent.com/u/56538177?v=4" width="150px;" alt=""/><br /><sub><b>Seda Nur Önder</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/senaecelik"><img src="https://avatars.githubusercontent.com/u/48855691?v=4" width="150px;" alt=""/><br /><sub><b>Sena Ercihan Çelik</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/123Sumeyra"><img src="https://avatars.githubusercontent.com/u/41166029?v=4" width="150px;" alt=""/><br /><sub><b>Sümeyra Özuğur</b></sub></a><br /></td>
   </tr>
    <tr>
-    <td align="center"><a href="https://github.com/beyzanurtas"><img src="https://avatars.githubusercontent.com/u/80275416?v=4" width="150px;" alt=""/><br /><sub><b>Beyzanur Taş</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Ebazhanov"><img src="https://avatars2.githubusercontent.com/u/13170022?v=4?s=100" width="150px;" alt=""/><br /><sub><b>Burçak Şahin</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/busenmir"><img src="https://avatars.githubusercontent.com/u/72807779?v=4" width="150px;" alt=""/><br /><sub><b>Buse Demir</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/smyy22"><img src="https://avatars.githubusercontent.com/u/96207103?v=4" width="150px;" alt=""/><br /><sub><b>Sümeyye Emre</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/SumeyyeOzkan"><img src="https://avatars.githubusercontent.com/u/34382382?v=4" width="150px;" alt=""/><br /><sub><b>Sümeyye Özkan</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/suveybesena"><img src="https://avatars.githubusercontent.com/u/85364012?v=4" width="150px;" alt=""/><br /><sub><b>Süveybe Sena Küçük</b></sub></a><br /></td>
   </tr>
 
 … -->
