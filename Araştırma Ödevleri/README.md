@@ -37,7 +37,7 @@
 - Büşranur Erpay:
 - Cansu Köse:
 - Cansu Şengül:
-- Ceren Yıldırım:
+- Ceren Yıldırım: [Araştırma Ödevi:](https://github.com/NCerenyildirim/UpSchool_Ara-t-rma_-devleri/blob/main/README.md)
 - Didem Karaca:
 - Dilan Özer:
 - Dilay Erem Karabağ: [Araştırma Ödevi](https://github.com/dilayerem/Upschool-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
