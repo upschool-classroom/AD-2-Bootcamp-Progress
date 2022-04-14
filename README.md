@@ -14,13 +14,13 @@
     <td align="center"><a href="https://github.com/aybukefirat"><img src="https://avatars.githubusercontent.com/u/66526972?v=4" width="150px;" alt=""/><br /><sub><b>Aybüke Fırata</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/aysinsahin"><img src="https://avatars.githubusercontent.com/u/102942877?v=4" width="150px;" alt=""/><br /><sub><b>Ayşin Şahin</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/bernayasarr"><img src="https://avatars.githubusercontent.com/u/103641575?v=4" width="150px;" alt=""/><br /><sub><b>Berna Yaşar</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Ebazhanov"><img src="https://avatars2.githubusercontent.com/u/13170022?v=4?s=100" width="150px;" alt=""/><br /><sub><b>Beste Saraç</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/bestesarac"><img src="https://avatars.githubusercontent.com/u/103462183?v=4" width="150px;" alt=""/><br /><sub><b>Beste Saraç</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/betulakan"><img src="https://avatars.githubusercontent.com/u/63055084?v=4" width="150px;" alt=""/><br /><sub><b>Betül Alkan</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/beyzaaydemir"><img src="https://avatars.githubusercontent.com/u/41332762?v=4" width="150px;" alt=""/><br /><sub><b>Beyza Nur Aydemir</b></sub></a><br /></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/beyzanurtas"><img src="https://avatars.githubusercontent.com/u/80275416?v=4" width="150px;" alt=""/><br /><sub><b>Beyzanur Taş</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Ebazhanov"><img src="https://avatars2.githubusercontent.com/u/13170022?v=4?s=100" width="150px;" alt=""/><br /><sub><b>Burçak Şahin</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/burcaksahn"><img src="https://avatars.githubusercontent.com/u/66913803?v=4" width="150px;" alt=""/><br /><sub><b>Burçak Şahin</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/busenmir"><img src="https://avatars.githubusercontent.com/u/72807779?v=4" width="150px;" alt=""/><br /><sub><b>Buse Demir</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/busranur-erpay"><img src="https://avatars.githubusercontent.com/u/77737341?v=4" width="150px;" alt=""/><br /><sub><b>Büşranur Erpay</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Cansu-Kose"><img src="https://avatars.githubusercontent.com/u/93200871?v=4" width="150px;" alt=""/><br /><sub><b>Cansu Köse</b></sub></a><br /></td>
@@ -50,5 +50,5 @@
     <td align="center"><a href="https://github.com/SumeyyeOzkan"><img src="https://avatars.githubusercontent.com/u/34382382?v=4" width="150px;" alt=""/><br /><sub><b>Sümeyye Özkan</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/suveybesena"><img src="https://avatars.githubusercontent.com/u/85364012?v=4" width="150px;" alt=""/><br /><sub><b>Süveybe Sena Küçük</b></sub></a><br /></td>
   </tr>
-
 … -->
+
