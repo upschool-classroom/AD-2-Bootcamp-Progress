@@ -47,7 +47,7 @@
 - Gizem Can:
 - Hümeyra Mercan:
 - Melissa Çoralı:
-- Özlem Basabakar:
+- Özlem Basabakar: [Araştırma Ödevi](https://github.com/ozlembasabakar/UpSchoolAndroidDevelopmentBootcamp/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Pelşin Kaplan:
 - Seda Nur Önder:
 - Sena Ercihan Çelik:
