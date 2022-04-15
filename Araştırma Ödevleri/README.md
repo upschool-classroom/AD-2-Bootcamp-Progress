@@ -44,7 +44,7 @@
 - Dilan Özer:
 - Dilay Erem Karabağ: [Araştırma Ödevi](https://github.com/dilayerem/Upschool-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Elif Esra Eker:
-- Esra Öz: [Araştırma Ödevi] (https://github.com/yesraoz/AD-2-Bootcamp-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
+- Esra Öz: [Araştırma Ödevi] (https://github.com/yesraoz/AD-2-Bootcamp-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Feyza Demirhan: [Araştırma Ödevi](https://github.com/feyzademirhan/UpSchool-Bootcamp-Progress/blob/main/Araştırma%20Ödevleri/README.md)
 - Gizem Can:
 - Hümeyra Mercan:[Araştırma Ödevi](https://github.com/humeyramercan/UpSchool-Research-Assignments)
