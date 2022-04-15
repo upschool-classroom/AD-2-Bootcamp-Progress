@@ -46,7 +46,7 @@
 - Elif Esra Eker:
 - Esra Öz: [Araştırma Ödevi](https://github.com/yesraoz/AD-2-Bootcamp-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Feyza Demirhan: [Araştırma Ödevi](https://github.com/feyzademirhan/UpSchool-Bootcamp-Progress/blob/main/Araştırma%20Ödevleri/README.md)
-- Gizem Can:
+- Gizem Can: [Araştırma Ödevi](https://github.com/gzmcnnnn/UpSchool/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Hümeyra Mercan:[Araştırma Ödevi](https://github.com/humeyramercan/UpSchool-Research-Assignments)
 - Melissa Çoralı:
 - Özlem Basabakar: [Araştırma Ödevi](https://github.com/ozlembasabakar/UpSchoolAndroidDevelopmentBootcamp/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
