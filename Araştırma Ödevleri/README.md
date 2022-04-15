@@ -30,7 +30,7 @@
 - Berna Yaşar:
 - Beste Saraç:
 - Betül Akan:  [Araştırma Ödevi](https://github.com/betulakan/UpSchool-Projects/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
-- Beyza Nur Aydemir:
+- Beyza Nur Aydemir: [Araştırma Ödevi] (https://github.com/beyzaaydemir/UpschoolBootcampResearchAssignments/blob/main/README.md)
 - Beyzanur Taş:
 - Burçak Şahin:
 - Buse Demir:
