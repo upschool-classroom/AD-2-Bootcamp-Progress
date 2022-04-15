@@ -33,7 +33,7 @@
 - Beyza Nur Aydemir: [Araştırma Ödevi](https://github.com/beyzaaydemir/UpschoolBootcampResearchAssignments/blob/main/README.md)
 - Beyzanur Taş:
 - Burçak Şahin:
-- Buse Demir:
+- Buse Demir:[Araştırma Ödevi] (https://github.com/busenmir/Upschool-AD-Bootcamp)
 - Büşranur Erpay:
 - Cansu Köse:
 - Cansu Şengül:
