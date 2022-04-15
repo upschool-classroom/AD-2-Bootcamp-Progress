@@ -24,6 +24,8 @@
 
 # <a name="x"></a> Öğrenci Cevapları:
 
+Öğrencilerimizin oluşturduğu kendi araştırma arşivlerini aşağıdan inceleyebilirsiniz
+
 - Aleyna Işıkdağlılar:
 - Aybüke Fırat:
 - Ayşin Şahin:
