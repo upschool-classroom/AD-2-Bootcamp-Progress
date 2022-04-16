@@ -25,7 +25,7 @@
 - Elif Esra Eker:
 - Esra Öz: 
 - Feyza Demirhan: [Projeler](https://github.com/feyzademirhan/UpSchool-Bootcamp-Progress/tree/main/Projeler)
-- Gizem Can:
+- Gizem Can: [Projeler](https://github.com/gizemcann/UpSchool/tree/main/Projeler)
 - Hümeyra Mercan: [Projeler](https://github.com/humeyramercan/Layout-Exercise-Project)
 - Melissa Çoralı:
 - Özlem Basabakar: [Project 01](https://github.com/ozlembasabakar/UpSchoolAndroidDevelopmentBootcamp/tree/main/Layout%20Project)
