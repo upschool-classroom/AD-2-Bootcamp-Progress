@@ -51,7 +51,7 @@
 - Melissa Çoralı:
 - Özlem Basabakar: [Araştırma Ödevi](https://github.com/ozlembasabakar/UpSchoolAndroidDevelopmentBootcamp/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Pelşin Kaplan: [Araştırma Ödevi](https://github.com/pelsinkaplan/Upschool-Progress/blob/main/Research-Assignments/Assignments.md)
-- Seda Nur Önder:
+- Seda Nur Önder:[Araştırma Ödevi](https://github.com/SedaNur35/Upschool-Bootcamp/tree/main/ArastirmaOdevleri)
 - Sena Ercihan Çelik:[Araştırma Ödevi](https://github.com/senaecelik/UpSchool-Progress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Sümeyra Özuğur:
 - Sümeyye Emre:
