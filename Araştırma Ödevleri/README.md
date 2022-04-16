@@ -40,7 +40,7 @@
 - Cansu Köse:[Araştırma Ödevi:](https://github.com/Cansu-Kose/AD-2-BootcampProgress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Cansu Şengül:
 - Ceren Yıldırım: [Araştırma Ödevi:](https://github.com/NCerenyildirim/UpSchool_Ara-t-rma_-devleri/blob/main/README.md)
-- Didem Karaca:
+- Didem Karaca: [Araştırma Ödevi:] (https://github.com/didemkaracaa/Upschool-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Dilan Özer:
 - Dilay Erem Karabağ: [Araştırma Ödevi](https://github.com/dilayerem/Upschool-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Elif Esra Eker:
