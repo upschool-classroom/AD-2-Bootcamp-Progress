@@ -27,7 +27,7 @@
 Öğrencilerimizin oluşturduğu kendi araştırma arşivlerini aşağıdan inceleyebilirsiniz
 
 - Aleyna Işıkdağlılar:
-- Aybüke Fırat:
+- Aybüke Fırat: [Araştırma Ödevi](https://github.com/aybukefirat/UpSchool-Android-Bootcamp/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Ayşin Şahin:
 - Berna Yaşar:
 - Beste Saraç:
