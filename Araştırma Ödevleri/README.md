@@ -55,5 +55,5 @@
 - Sena Ercihan Çelik:[Araştırma Ödevi](https://github.com/senaecelik/UpSchool-Progress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Sümeyra Özuğur:
 - Sümeyye Emre:
-- Sümeyye Özkan:
+- Sümeyye Özkan: [Araştırma Ödevi](https://github.com/SumeyyeOzkan/UpSchool-Android-Progress/tree/master/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Suüveybe Sena Küçük:[Araştırma Ödevi](https://github.com/suveybesena/UpschoolProjects/tree/research_assignments)
