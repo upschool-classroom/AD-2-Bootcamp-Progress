@@ -31,7 +31,7 @@
 - Özlem Basabakar: [Project 01](https://github.com/ozlembasabakar/UpSchoolAndroidDevelopmentBootcamp/tree/main/Layout%20Project)
 - Pelşin Kaplan: 
 - Seda Nur Önder:
-- Sena Ercihan Çelik:[Projeler](https://github.com/senaecelik/UpSchool-Progress/tree/main/Projeler)
+- Sena Ercihan Çelik: [Projeler](https://github.com/senaecelik/UpSchool-Progress/tree/main/Projeler)
 - Sümeyra Özuğur:
 - Sümeyye Emre:
 - Sümeyye Özkan: [Projeler](https://github.com/SumeyyeOzkan/UpSchool-Android-Progress/tree/master/Projeler)
