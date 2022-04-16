@@ -28,7 +28,7 @@
 - Gizem Can:
 - Hümeyra Mercan: [Projeler](https://github.com/humeyramercan/Layout-Exercise-Project)
 - Melissa Çoralı:
-- Özlem Basabakar: 
+- Özlem Basabakar: [Project 01](https://github.com/ozlembasabakar/UpSchoolAndroidDevelopmentBootcamp/tree/main/Layout%20Project)
 - Pelşin Kaplan: 
 - Seda Nur Önder:
 - Sena Ercihan Çelik:
