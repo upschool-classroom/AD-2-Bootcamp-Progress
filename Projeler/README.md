@@ -34,5 +34,5 @@
 - Sena Ercihan Çelik:
 - Sümeyra Özuğur:
 - Sümeyye Emre:
-- Sümeyye Özkan:
+- Sümeyye Özkan: [Projeler](https://github.com/SumeyyeOzkan/UpSchool-Android-Progress/tree/master/Projeler)
 - Suüveybe Sena Küçük:
