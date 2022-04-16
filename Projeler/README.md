@@ -19,7 +19,7 @@
 - Cansu Köse:
 - Cansu Şengül:
 - Ceren Yıldırım: 
-- Didem Karaca: [Projeler](https://github.com/didemkaracaa/Upschool-Progress/tree/main/Projeler)
+- Didem Karaca:
 - Dilan Özer:
 - Dilay Erem Karabağ: [Projeler](https://github.com/dilayerem/Upschool-Progress/tree/main/Projects)
 - Elif Esra Eker:
