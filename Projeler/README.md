@@ -24,7 +24,7 @@
 - Dilay Erem Karabağ: 
 - Elif Esra Eker:
 - Esra Öz: 
-- Feyza Demirhan: 
+- Feyza Demirhan: [Projeler](https://github.com/feyzademirhan/UpSchool-Bootcamp-Progress/tree/main/Projeler)
 - Gizem Can: 
 - Hümeyra Mercan:
 - Melissa Çoralı:
