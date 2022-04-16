@@ -14,7 +14,7 @@
 - Beyza Nur Aydemir: 
 - Beyzanur Taş: [Projeler](https://github.com/beyzanurtas/UpSchool-Bootcamp-Progress/tree/main/Projects)
 - Burçak Şahin:
-- Buse Demir:[Projeler] (https://github.com/busenmir/Upschool-AD-Bootcamp/tree/main/Projeler)
+- Buse Demir:[Projeler](https://github.com/busenmir/Upschool-AD-Bootcamp/tree/main/Projeler)
 - Büşranur Erpay:
 - Cansu Köse:
 - Cansu Şengül:
