@@ -12,7 +12,7 @@
 - Beste Saraç:
 - Betül Akan: 
 - Beyza Nur Aydemir: 
-- Beyzanur Taş: 
+- Beyzanur Taş: [Projeler](https://github.com/beyzanurtas/UpSchool-Bootcamp-Progress/tree/main/Projects)
 - Burçak Şahin:
 - Buse Demir: 
 - Büşranur Erpay:
