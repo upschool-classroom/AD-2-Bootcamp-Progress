@@ -35,4 +35,4 @@
 - Sümeyra Özuğur:
 - Sümeyye Emre:
 - Sümeyye Özkan: [Projeler](https://github.com/SumeyyeOzkan/UpSchool-Android-Progress/tree/master/Projeler)
-- Suüveybe Sena Küçük:
+- Suüveybe Sena Küçük:[Proje](https://github.com/suveybesena/UpschoolProjects/tree/feature/layoutproject)
