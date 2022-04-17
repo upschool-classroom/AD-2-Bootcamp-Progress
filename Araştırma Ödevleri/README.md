@@ -38,7 +38,7 @@
 - Buse Demir: [Araştırma Ödevi:](https://github.com/busenmir/Upschool-AD-Bootcamp/tree/main/Ara%C5%9Ft%C4%B1rma%C3%96devleri)
 - Büşranur Erpay: [Araştırma Ödevi](https://github.com/busranur-erpay/Upschool-Progress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Cansu Köse:[Araştırma Ödevi:](https://github.com/Cansu-Kose/AD-2-BootcampProgress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
-- Cansu Şengül:
+- Cansu Şengül: [Araştırma Ödevi:](https://github.com/CansuSengul/Upschool-Progress/tree/main/Research%20Assignments)
 - Ceren Yıldırım: [Araştırma Ödevi:](https://github.com/NCerenyildirim/UpSchool_Ara-t-rma_-devleri/blob/main/README.md)
 - Didem Karaca: [Araştırma Ödevi](https://github.com/didemkaracaa/Upschool-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Dilan Özer:
