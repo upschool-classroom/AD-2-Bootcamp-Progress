@@ -17,7 +17,7 @@
 - Buse Demir:[Projeler](https://github.com/busenmir/Upschool-AD-Bootcamp/tree/main/Projeler)
 - Büşranur Erpay:
 - Cansu Köse:
-- Cansu Şengül:
+- Cansu Şengül:[Projeler](https://github.com/CansuSengul/Upschool-Progress/tree/main/Projects)
 - Ceren Yıldırım: 
 - Didem Karaca:
 - Dilan Özer:
