@@ -6,7 +6,7 @@
 
 
 - Aleyna Işıkdağlılar:
-- Aybüke Fırat:
+- Aybüke Fırat: [Projeler](https://github.com/aybukefirat/UpSchool-Android-Bootcamp/tree/main/Projects)
 - Ayşin Şahin:
 - Berna Yaşar:
 - Beste Saraç:
