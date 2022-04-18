@@ -32,7 +32,7 @@
 - Pelşin Kaplan: [Project](https://github.com/pelsinkaplan/Upschool-Progress/tree/main/Projects/LayoutExerciseProject)
 - Seda Nur Önder:[Projeler](https://github.com/SedaNur35/UpschoolProject)
 - Sena Ercihan Çelik: [Projeler](https://github.com/senaecelik/UpSchool-Progress/tree/main/Projeler)
-- Sümeyra Özuğur:
+- Sümeyra Özuğur: [Projeler](https://github.com/123Sumeyra/UpSchool-Android-Bootcamp/tree/main/Projects)
 - Sümeyye Emre:
 - Sümeyye Özkan: [Projeler](https://github.com/SumeyyeOzkan/UpSchool-Android-Bootcmp-Progress/tree/master/Projeler)
 - Suüveybe Sena Küçük:[Proje](https://github.com/suveybesena/UpschoolProjects/tree/feature/layoutproject)
