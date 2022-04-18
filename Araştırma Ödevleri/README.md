@@ -53,7 +53,7 @@
 - Pelşin Kaplan: [Araştırma Ödevi](https://github.com/pelsinkaplan/Upschool-Progress/blob/main/Research-Assignments/Assignments.md)
 - Seda Nur Önder:[Araştırma Ödevi](https://github.com/SedaNur35/Upschool-Bootcamp/tree/main/ArastirmaOdevleri)
 - Sena Ercihan Çelik:[Araştırma Ödevi](https://github.com/senaecelik/UpSchool-Progress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
-- Sümeyra Özuğur:
+- Sümeyra Özuğur: [Araştırma Ödevi](https://github.com/123Sumeyra/UpSchool-Android-Bootcamp/tree/main/Research%20Assignments)
 - Sümeyye Emre:
 - Sümeyye Özkan: [Araştırma Ödevi](https://github.com/SumeyyeOzkan/UpSchool-Android-Bootcmp-Progress/tree/master/Ara%C5%9Ft%C4%B1rmalar)
 - Suüveybe Sena Küçük:[Araştırma Ödevi](https://github.com/suveybesena/UpschoolProjects/tree/research_assignments)
