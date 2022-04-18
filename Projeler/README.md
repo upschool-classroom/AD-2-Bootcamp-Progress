@@ -11,7 +11,7 @@
 - Berna Yaşar:
 - Beste Saraç:
 - Betül Akan: 
-- Beyza Nur Aydemir: 
+- Beyza Nur Aydemir: [Projeler](https://github.com/beyzaaydemir/BootCamp3_Layout_Design)
 - Beyzanur Taş: [Projeler](https://github.com/beyzanurtas/UpSchool-Bootcamp-Progress/tree/main/Projects)
 - Burçak Şahin:
 - Buse Demir:[Projeler](https://github.com/busenmir/Upschool-AD-Bootcamp/tree/main/Projeler)
