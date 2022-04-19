@@ -28,7 +28,7 @@
 
 - Aleyna Işıkdağlılar:
 - Aybüke Fırat: [Araştırma Ödevi](https://github.com/aybukefirat/UpSchool-Android-Bootcamp/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
-- Ayşin Şahin:
+- Aysin Şahin:[Araştırma Ödevi](https://github.com/aysinsahin/-UpSchool-Android-Bootcamp/blob/main/Ara%C5%9F.%C3%96devleri/Assignments.md)
 - Berna Yaşar:
 - Beste Saraç:
 - Betül Akan: [Araştırma Ödevi](https://github.com/betulakan/UpSchool-Projects/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
