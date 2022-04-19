@@ -10,7 +10,7 @@
 - Ayşin Şahin:
 - Berna Yaşar:
 - Beste Saraç:
-- Betül Akan: [Projeler](https://github.com/betulakan/UpSchool-Projects/tree/main/Projects/Project%20%231%20-%20Layout%20Exercise%20Project)
+- Betül Akan: [Projeler](https://github.com/betulakan/UpSchool-Projects/tree/main/Projects)
 - Beyza Nur Aydemir: [Projeler](https://github.com/beyzaaydemir/BootCamp3_Layout_Design)
 - Beyzanur Taş: [Projeler](https://github.com/beyzanurtas/UpSchool-Bootcamp-Progress/tree/main/Projects)
 - Burçak Şahin:
