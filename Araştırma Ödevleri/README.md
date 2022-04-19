@@ -34,7 +34,7 @@
 - Betül Akan: [Araştırma Ödevi](https://github.com/betulakan/UpSchool-Projects/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Beyza Nur Aydemir: [Araştırma Ödevi](https://github.com/beyzaaydemir/UpschoolBootcampResearchAssignments/blob/main/README.md)
 - Beyzanur Taş: [Araştırma Ödevi](https://github.com/beyzanurtas/UpSchool-Bootcamp-Progress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
-- Burçak Şahin:
+- Burçak Şahin: [Araştırma Ödevi](https://github.com/burcaksahn/Arastirma-Odevi/blob/main/README.md)
 - Buse Demir: [Araştırma Ödevi:](https://github.com/busenmir/Upschool-AD-Bootcamp/tree/main/Ara%C5%9Ft%C4%B1rma%C3%96devleri)
 - Büşranur Erpay: [Araştırma Ödevi](https://github.com/busranur-erpay/Upschool-Progress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Cansu Köse:[Araştırma Ödevi:](https://github.com/Cansu-Kose/AD-2-BootcampProgress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
