@@ -18,7 +18,7 @@
 - Büşranur Erpay: [Projeler](https://github.com/busranur-erpay/Upschool-Progress/tree/main/Projeler)
 - Cansu Köse:
 - Cansu Şengül:[Projeler](https://github.com/CansuSengul/Upschool-Progress/tree/main/Projects)
-- Ceren Yıldırım: 
+- Ceren Yıldırım: [Projeler](https://github.com/NCerenyildirim/Layout_Exercise_UpSchool)
 - Didem Karaca:
 - Dilan Özer:
 - Dilay Erem Karabağ: [Projeler](https://github.com/dilayerem/Upschool-Progress/tree/main/Projects)
