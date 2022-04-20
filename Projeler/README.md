@@ -16,7 +16,7 @@
 - Burçak Şahin:  [Projeler](https://github.com/burcaksahn/upschool-projects/tree/master) 
 - Buse Demir:[Projeler](https://github.com/busenmir/Upschool-AD-Bootcamp/tree/main/Projeler)
 - Büşranur Erpay: [Projeler](https://github.com/busranur-erpay/Upschool-Progress/tree/main/Projeler) 
-- Cansu Köse:
+- Cansu Köse:[Projeler](https://github.com/Cansu-Kose/AD2-BootcampProgress/tree/main/Projeler)
 - Cansu Şengül:[Projeler](https://github.com/CansuSengul/Upschool-Progress/tree/main/Projects)
 - Ceren Yıldırım: [Projeler](https://github.com/NCerenyildirim/Layout_Exercise_UpSchool)
 - Didem Karaca:
