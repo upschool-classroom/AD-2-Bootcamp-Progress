@@ -2,10 +2,12 @@
 
 - [Araştırma Projesi 1 - Lateinit](#1)
 - [Araştırma Projesi 2 - Tools Namespace](#2)
+- [Araştırma Projesi 3 - Font family XML](#3)
+- [Araştırma Projesi 4 - Property Animation](#4)
 - [Öğrenci Cevapları](#x)
 
 
-### <a name="1"></a> Araştırma Projesi 1
+## <a name="1"></a> Araştırma Projesi 1
 
 - Lateinit neden kullanıyoruz?
 - Lateinit kullanımından bahseder misiniz?
@@ -13,7 +15,7 @@
 
 
 
-### <a name="2"></a> Araştırma Projesi 2
+## <a name="2"></a> Araştırma Projesi 2
 
 
 - Layout dizini içinde xml dosyalarımız için kullandığımız namespace nedir ?
@@ -21,6 +23,18 @@
 - Nasıl kullanılmalıdır ?
 - Bir adet Tools (tools namespace) attribute kullanımını gösterir misiniz ? 
 
+## <a name="3"></a> Araştırma Projesi 3
+
+- Font family dosyası nasıl oluşturulup kullanıyoruz?
+- Neden belirttiğiniz şekilde kullanımı tercih ediyoruz?
+
+P.S. [Bu linkten](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml ) faydalanarak font family projenizde deneyebilirsiniz.
+
+## <a name="4"></a> Araştırma Projesi 4
+
+- Property Animation ile ilgili olarak objectAnimator ile animator arasındaki farkı kısaca açıklayınız
+
+P.S. [Bu linkten](https://developer.android.com/guide/topics/resources/animation-resource#Property) faydalanabilirsiniz.
 
 # <a name="x"></a> Öğrenci Cevapları:
 
