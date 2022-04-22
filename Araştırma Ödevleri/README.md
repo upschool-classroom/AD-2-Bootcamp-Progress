@@ -44,7 +44,7 @@ P.S. [Bu linkten](https://developer.android.com/guide/topics/resources/animation
 - Aybüke Fırat: [Araştırma Ödevi](https://github.com/aybukefirat/UpSchool-Android-Bootcamp/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Aysin Şahin:[Araştırma Ödevi](https://github.com/aysinsahin/-UpSchool-Android-Bootcamp/blob/main/Ara%C5%9F.%C3%96devleri/Assignments.md)(https://github.com/aysinsahin/-UpSchool-Android-Bootcamp/tree/main/Projeler)
 - Berna Yaşar:
-- Beste Saraç:
+- Beste Saraç: [Araştırma Ödevi](https://github.com/bestesarac/UPSchoolProjects/tree/master/Assignments)
 - Betül Akan: [Araştırma Ödevi](https://github.com/betulakan/UpSchool-Projects/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Beyza Nur Aydemir: [Araştırma Ödevi](https://github.com/beyzaaydemir/UpschoolBootcampResearchAssignments/blob/main/README.md)
 - Beyzanur Taş: [Araştırma Ödevi](https://github.com/beyzanurtas/UpSchool-Bootcamp-Progress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
