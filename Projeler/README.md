@@ -5,7 +5,7 @@
 
 
 
-- Aleyna Işıkdağlılar:
+- Aleyna Işıkdağlılar: [Projeler](https://github.com/aleynaisikdaglilar/Upschool-Progress/tree/master)
 - Aybüke Fırat: [Projeler](https://github.com/aybukefirat/UpSchool-Android-Bootcamp/tree/main/Projects)
 - Ayşin Şahin:
 - Berna Yaşar:
