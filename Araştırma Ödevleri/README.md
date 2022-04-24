@@ -40,7 +40,7 @@ P.S. [Bu linkten](https://developer.android.com/guide/topics/resources/animation
 
 Öğrencilerimizin oluşturduğu kendi araştırma arşivlerini aşağıdan inceleyebilirsiniz
 
-- Aleyna Işıkdağlılar: [Araştırma Ödevi] (https://github.com/aleynaisikdaglilar/AD2-Bootcamp-Progress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
+- Aleyna Işıkdağlılar: [Araştırma Ödevi](https://github.com/aleynaisikdaglilar/AD2-Bootcamp-Progress/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Aybüke Fırat: [Araştırma Ödevi](https://github.com/aybukefirat/UpSchool-Android-Bootcamp/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Aysin Şahin:[Araştırma Ödevi](https://github.com/aysinsahin/-UpSchool-Android-Bootcamp/blob/main/Ara%C5%9F.%C3%96devleri/Assignments.md)(https://github.com/aysinsahin/-UpSchool-Android-Bootcamp/tree/main/Projeler)
 - Berna Yaşar:
