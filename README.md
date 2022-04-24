@@ -2,11 +2,15 @@
 
 ![WhatsApp Image 2022-04-13 at 17 02 13](https://user-images.githubusercontent.com/70329389/163203494-cbd255c6-1834-4595-b31d-ece22a9ee6f5.jpeg)
 
-.............
+## 📝 İçerik
 
-<!--
+Bu repoda Upschool - Akbank 2022 Bootcamp süreci boyunca işlenen içeriği ve öğrencilerin ilerleyiş sürecini kaydediyor ve bu kaydedilen içeriklerin Android geliştiriciliğiyle ilgilenen insanlara bir kaynak haline getirmeye çalışıyor olacağız! Bu süreç boyunca bu repoda emeği geçen öğrenci, eğitmen ve danışmanlarımıza teşekkür ederiz.
 
-## Our Students
+## ⭐ Bu Repoyu Faydalı Buldunuz Mu ?
+
+Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak siz de [Stargazers](https://github.com/serkanalc/Zero-to-Hero-Python/stargazers)'ların arasına katılıp bizi buna benzer kaynak paylaşımları yapmaya motive edebilirsiniz.Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksikse veya düzeltilmesi gerekiyorsa lütfen ilgili kişilere ulaşarak bunu bildirin ve en kısa sürede düzenlememize katkıda bulunmuş olun 👍🏻
+
+## 👩‍🎓 Öğrencilerimiz
 
 <table>
   <tr>
@@ -50,5 +54,5 @@
     <td align="center"><a href="https://github.com/SumeyyeOzkan"><img src="https://avatars.githubusercontent.com/u/34382382?v=4" width="150px;" alt=""/><br /><sub><b>Sümeyye Özkan</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/suveybesena"><img src="https://avatars.githubusercontent.com/u/85364012?v=4" width="150px;" alt=""/><br /><sub><b>Süveybe Sena Küçük</b></sub></a><br /></td>
   </tr>
-… -->
+
 
