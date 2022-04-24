@@ -15,7 +15,7 @@
 
 - [Google Android Developers](youtube.com/c/AndroidDevelopers)
 
-### Medium Profiles
+### 📖 Medium Profiles
 
 - [Android Developers](https://medium.com/androiddevelopers)
 - [Android Developers Group](https://medium.com/developer-multicamp)
