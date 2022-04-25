@@ -14,10 +14,13 @@
 ### 📺 Youtube Channels
 
 - [Google Android Developers](youtube.com/c/AndroidDevelopers)
+- [Kasım Adalan Youtube Channel](https://www.youtube.com/channel/UCrjiqrR7RuQK4FyB02cz9AQ/videos)
 
 ### 📖 Medium & Blog Profiles
 
 - [Android Developers](https://medium.com/androiddevelopers)
 - [Android Developers Group](https://medium.com/developer-multicamp)
 - [Harun Kor Personal Blog](http://www.harunkor.com.tr/)
+- [Caner Türe Personal Blog](https://cnrture.medium.com/)
+- 
  
