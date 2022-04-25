@@ -22,5 +22,6 @@
 - [Android Developers Group](https://medium.com/developer-multicamp)
 - [Harun Kor Personal Blog](http://www.harunkor.com.tr/)
 - [Caner Türe Personal Blog](https://cnrture.medium.com/)
-- 
+
+
  
