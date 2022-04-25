@@ -28,7 +28,7 @@
 - Gizem Can: [Projeler](https://github.com/gizemcann/UpSchool-AD-Bootcamp/tree/main/Projeler)
 - Hümeyra Mercan: [Projeler](https://github.com/humeyramercan/Layout-Exercise-Project)
 - Melissa Çoralı:[Proje](https://github.com/melissacorali/UpSchool-Progress/tree/main/Project/LayoutExercise)
-- Özlem Basabakar: [Project 01](https://github.com/ozlembasabakar/LayoutProject)
+- Özlem Basabakar: [Project 02](https://github.com/ozlembasabakar/AndroidTweenAnimationSample) [Project 03](https://github.com/ozlembasabakar/LayoutProject)
 - Pelşin Kaplan: [Project](https://github.com/pelsinkaplan/Upschool-Progress/tree/main/Projects)
 - Seda Nur Önder:[Projeler](https://github.com/SedaNur35/UpschoolProject)
 - Sena Ercihan Çelik: [Projeler](https://github.com/senaecelik/UpSchool-Progress/tree/main/Projeler)
