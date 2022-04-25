@@ -15,8 +15,9 @@
 
 - [Google Android Developers](youtube.com/c/AndroidDevelopers)
 
-### 📖 Medium Profiles
+### 📖 Medium & Blog Profiles
 
 - [Android Developers](https://medium.com/androiddevelopers)
 - [Android Developers Group](https://medium.com/developer-multicamp)
+- [Harun Kor Personal Blog](http://www.harunkor.com.tr/)
  
