@@ -26,7 +26,7 @@
 - Esra Öz: [Projeler](https://github.com/yesraoz/AD-2-Bootcamp-Progress/blob/main/Projeler)
 - Feyza Demirhan: [Projeler](https://github.com/feyzademirhan/UpSchool-Bootcamp-Progress/tree/main/Projeler)
 - Gizem Can: [Projeler](https://github.com/gizemcann/UpSchool-AD-Bootcamp/tree/main/Projeler)
-- Hümeyra Mercan: [Project 01](https://github.com/humeyramercan/Layout-Exercise-Project) [Project 02] (https://github.com/humeyramercan/Android-Tween-Animation-Sample) [Project 03] (https://github.com/humeyramercan/Layout-Exercise-Project)
+- Hümeyra Mercan: [Project 01](https://github.com/humeyramercan/Layout-Exercise-Project) [Project 02](https://github.com/humeyramercan/Android-Tween-Animation-Sample) [Project 03](https://github.com/humeyramercan/Layout-Exercise-Project)
 - Melissa Çoralı:[Proje](https://github.com/melissacorali/UpSchool-Progress/tree/main/Project/LayoutExercise)
 - Özlem Basabakar: [Project 02](https://github.com/ozlembasabakar/AndroidTweenAnimationSample) [Project 03](https://github.com/ozlembasabakar/LayoutProject)
 - Pelşin Kaplan: [Project](https://github.com/pelsinkaplan/Upschool-Progress/tree/main/Projects)
