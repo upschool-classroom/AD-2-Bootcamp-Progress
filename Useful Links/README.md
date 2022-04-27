@@ -30,6 +30,5 @@
 - [Android Developers Group](https://medium.com/developer-multicamp)
 - [Harun Kor Personal Blog](http://www.harunkor.com.tr/)
 - [Caner Türe Personal Blog](https://cnrture.medium.com/)
-
-
+- [Clean Code - Robert C. Martin Kitabı Çevirileri](https://medium.com/@busrauzun/clean-code-kitabindan-notlar-1-temiz-kod-derken-44e6f7a27eb0)
  
