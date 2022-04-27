@@ -7,7 +7,7 @@
 
 - Aleyna Işıkdağlılar: [Projeler](https://github.com/aleynaisikdaglilar/AD2-Bootcamp-Progress/tree/main/Projeler)
 - Aybüke Fırat: [Projeler](https://github.com/aybukefirat/UpSchool-Android-Bootcamp/tree/main/Projects)
-- Aysin Şahin:[Projeler]https://github.com/aysinsahin/-UpSchool-Android-Bootcamp/tree/main/Projeler
+- Aysin Şahin:[Projeler].(https://github.com/aysinsahin/-UpSchool-Android-Bootcamp/tree/main/Projeler)
 - Berna Yaşar:
 - Beste Saraç: [Projeler](https://github.com/bestesarac/UPSchoolProjects/tree/master/project1)
 - Betül Akan: [Projeler](https://github.com/betulakan/UpSchool-Projects/tree/main/Projects)
