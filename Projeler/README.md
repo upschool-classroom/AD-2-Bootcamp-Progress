@@ -11,7 +11,7 @@
 - Berna Yaşar:
 - Beste Saraç: [Projeler](https://github.com/bestesarac/UPSchoolProjects/tree/master/project1)
 - Betül Akan: [Projeler](https://github.com/betulakan/UpSchool-Projects/tree/main/Projects)
-- Beyza Nur Aydemir: [Project 1](https://github.com/beyzaaydemir/BootCamp3_Layout_Design) [Project 3](https://github.com/beyzaaydemir/BootCamp3_Layout_Design)
+- Beyza Nur Aydemir: [Project 01](https://github.com/beyzaaydemir/BootCamp3_Layout_Design) [Project 02](https://github.com/beyzaaydemir/AndroidTweenAnimationSample) [Project 03](https://github.com/beyzaaydemir/BootCamp3_Layout_Design)
 - Beyzanur Taş: [Projeler](https://github.com/beyzanurtas/UpSchool-Bootcamp-Progress/tree/main/Projects)
 - Burçak Şahin:  [Projeler](https://github.com/burcaksahn/upschool-projects/tree/master) 
 - Buse Demir:[Projeler](https://github.com/busenmir/Upschool-AD-Bootcamp/tree/main/Projeler)
