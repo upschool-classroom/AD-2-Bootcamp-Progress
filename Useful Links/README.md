@@ -31,8 +31,7 @@
 - [Harun Kor Personal Blog](http://www.harunkor.com.tr/)
 - [Caner Türe Personal Blog](https://cnrture.medium.com/)
 
-## 📖 Blog Posts
-
+## 📎 Blog Posts 
 - [Android Developer Roadmap 2022 ](https://github.com/skydoves/android-developer-roadmap)
 - [Android Developer Roadmap 2022 - Part 1](https://getstream.io/blog/android-developer-roadmap/)
 - [Android Developer Roadmap 2022 - Part 2](https://getstream.io/blog/android-developer-roadmap-part-2/)
