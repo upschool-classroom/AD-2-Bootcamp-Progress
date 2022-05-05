@@ -35,4 +35,4 @@
 - Sümeyra Özuğur: [Projeler](https://github.com/123Sumeyra/UpSchool-Android-Bootcamp/tree/main/Projects)
 - Sümeyye Emre: [Projeler](https://github.com/smyy22/Layout-Projects)
 - Sümeyye Özkan: [Projeler](https://github.com/SumeyyeOzkan/UpSchool-Android-Bootcmp-Progress/tree/master/Projeler)
-- Suüveybe Sena Küçük: [Projects](https://github.com/suveybesena/UpschoolProjects/tree/master) (can be accessed by checking branches)
+- Suüveybe Sena Küçük: [Projects](https://github.com/suveybesena/UpschoolProjects/tree/master) (accessible by checking branches)
