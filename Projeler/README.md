@@ -9,7 +9,7 @@
 - Aybüke Fırat: [Projeler](https://github.com/aybukefirat/UpSchool-Android-Bootcamp/tree/main/Projects)
 - Aysin Şahin:[Projeler](https://github.com/aysinsahin/-UpSchool-Android-Bootcamp/tree/main/Projeler)
 - Berna Yaşar:
-- Beste Saraç: [Projeler](https://github.com/bestesarac/UPSchoolProjects/tree/master/project1)
+- Beste Saraç: [LayoutExerciseProject](https://github.com/bestesarac/LayoutExerciseProject)
 - Betül Akan: [Projeler](https://github.com/betulakan/UpSchool-Projects/tree/main/Projects)
 - Beyza Nur Aydemir: [Project 01](https://github.com/beyzaaydemir/BootCamp3_Layout_Design) [Project 02](https://github.com/beyzaaydemir/AndroidTweenAnimationSample) [Project 03](https://github.com/beyzaaydemir/BootCamp3_Layout_Design)
 - Beyzanur Taş: [Projeler](https://github.com/beyzanurtas/UpSchool-Bootcamp-Progress/tree/main/Projects)
