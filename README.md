@@ -20,7 +20,7 @@ Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak s
     <td align="center"><a href="https://github.com/bernayasarr"><img src="https://avatars.githubusercontent.com/u/103641575?v=4" width="150px;" alt=""/><br /><sub><b>Berna Yaşar</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/bestesarac"><img src="https://avatars.githubusercontent.com/u/103462183?v=4" width="150px;" alt=""/><br /><sub><b>Beste Saraç</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/betulakan"><img src="https://avatars.githubusercontent.com/u/63055084?v=4" width="150px;" alt=""/><br /><sub><b>Betül Akan</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/beyzaaydemir"><img src="https://avatars.githubusercontent.com/u/41332762?v=4" width="150px;" alt=""/><br /><sub><b>Beyza Nur Aydemir</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/BeyzaNurAydemir"><img src="https://avatars.githubusercontent.com/u/41332762?v=4" width="150px;" alt=""/><br /><sub><b>Beyza Nur Aydemir</b></sub></a><br /></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/beyzanurtas"><img src="https://avatars.githubusercontent.com/u/80275416?v=4" width="150px;" alt=""/><br /><sub><b>Beyzanur Taş</b></sub></a><br /></td>
