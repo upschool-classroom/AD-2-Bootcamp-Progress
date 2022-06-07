@@ -55,7 +55,7 @@ P.S. [Bu linkten](https://developer.android.com/guide/topics/resources/animation
 - Cansu Şengül: [Araştırma Ödevi:](https://github.com/CansuSengul/Upschool-Progress/tree/main/Research%20Assignments)
 - Ceren Yıldırım: [Araştırma Ödevi:](https://github.com/NCerenyildirim/AD2-BootcampProgress/tree/main/Ara%C5%9Ft%C4%B1rmaOdevi)
 - Didem Karaca: [Araştırma Ödevi](https://github.com/didemkaracaa/Upschool-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
-- Dilan Özer: [Araştırma Ödevi](https://github.com/d-zer/UpSchool_Android/tree/main/Research%20Assignment)
+- Dilan Özer: [Araştırma Ödevi](https://github.com/d-zer/UpSchool_Android/blob/main/Research%20Assignment/Research.md))
 - Dilay Erem Karabağ: [Araştırma Ödevi](https://github.com/dilayerem/Upschool-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri/README.md)
 - Elif Esra Eker: [Araştırma Ödevi](https://github.com/eelifesraa/UpSchoolAndroidBootcamp/tree/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
 - Esra Öz: [Araştırma Ödevi](https://github.com/yesraoz/AD-2-Bootcamp-Progress/blob/main/Ara%C5%9Ft%C4%B1rma%20%C3%96devleri)
